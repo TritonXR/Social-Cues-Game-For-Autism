@@ -1,0 +1,7 @@
+# Social-Cues-Game-For-Autism
+
+Autism research is beginning to gain mainstream traction, but there are still limited resources to help children with autism. Teachers try several therapies to teach behaviors, something autistic children find challenging. However, teachers find it difficult to understand why their students act the way they do.
+
+Social Cues Game for Autism is an educational, VR, eye-tracking game that tests the students' social cue recognition and records/analyzes difficult cues. It is ultimately meant to teach young autistic students how to recognize and response to social cues.
+
+This game uses the FOVE's eye-tracking data to understand where autistic students are looking in realistic social situations. This data is used to generate a behavioral report and recommended guides for the teacher's IEP (Individualized Education Program). The data is also used to change the game for the student to practice social situations they struggle with. Last but not least, I collect this data for research purposes to create a portfolio of diverse personalities and their associated eye-tracking patterns, struggles, and learning curve. The game itself is simply putting the student in various social situations to practice their skills. By using VR, students are more inclined to play, and the environments themselves will be immersive and fun. And best, they do not face real-world, damaging consequences of their mistakes, since the whole point is to learn.
